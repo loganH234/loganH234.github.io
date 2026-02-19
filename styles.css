@@ -1,20 +1,20 @@
 p { 
 text-align: center; 
-color: red; 
+color: rgb(199, 99, 17); 
 } 
  
 body { 
-background: blue; 
+background: rgb(152, 12, 180); 
 font-family: Arial, Helvetica, sans-serif; 
 } 
  
 #header { 
-color: green; 
+color: rgb(128, 68, 0); 
 } 
  
 .about { 
 text-align: center; 
-color: blue; 
+color: rgb(183, 0, 255); 
 } 
  
 .projects { 
